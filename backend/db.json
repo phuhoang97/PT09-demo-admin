@@ -1,13 +1,6 @@
 {
   "users": [
     {
-      "id": 0,
-      "name": "Erna Rosa",
-      "age": 35,
-      "email": "ernarosa@furnafix.com",
-      "phone": "+84 (820) 488-2782"
-    },
-    {
       "id": 1,
       "name": "Erika Dodson",
       "age": 24,
